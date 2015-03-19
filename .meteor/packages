@@ -9,3 +9,4 @@ iron:router
 less
 nemo64:bootstrap
 accounts-facebook
+accounts-ui
